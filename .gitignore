@@ -1,0 +1,6 @@
+# Les binaires de distribution sont joints aux Releases.
+*.bin
+*.elf
+*.map
+*.zip
+build/
