@@ -3,7 +3,7 @@
 Distribution des firmwares du contrôleur ACTI3D, sur ESP32-S3 avec écran
 Waveshare ESP32-S3-Touch-LCD-7B 1024 × 600.
 
-Compte GitHub prévu : **seb449-art**. Dépôt prévu : **acti3d-firmware**.
+Compte GitHub prévu : **acti3d**. Dépôt prévu : **acti3d-firmware**.
 
 Ce dépôt contient les informations de distribution. Les binaires sont joints
 aux **Releases**, et le code source du contrôleur reste dans un dépôt séparé.
